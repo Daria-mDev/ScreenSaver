@@ -8,6 +8,9 @@ Setup:
 3. В режиме разработчика включить переход устройства в режим сна во время зарядки. (Developer options -> Stay awake -> Off)
 4. Запустить программу. 
 5. В настройках устройства:
-Display -> Sleep -> 15 seconds 
- ...    -> Advanced -> Screen saver -> Current screen saver -> dream
-                    -> When to start -> While charging or docked 
+
+Display -> Sleep -> 15 seconds
+
+...    -> Advanced -> Screen saver -> Current screen saver -> dream
+                 
+-> When to start -> While charging or docked 
